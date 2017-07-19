@@ -1,5 +1,5 @@
 # MPMediaItem+CanAddToLibrary
-###A Swift extension to let you know if an MPMediaItem exists in your library
+### A Swift extension to let you know if an MPMediaItem exists in your library
 
 Since iOS 9.3 it has been possible to add Apple Music tracks to your library as such:
 
